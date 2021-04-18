@@ -3,7 +3,7 @@
   This is a snake game created using javascript, HTML, CSS
 </h4>
 <h4>
-  Here are some of the images of the game
+  Here is a how the game looks like
 </h4>
 <img src="snake.gif">
 <p>
