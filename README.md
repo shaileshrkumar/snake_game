@@ -1,4 +1,4 @@
-# snake_game_quarantine
+# snake_game
 <h4>
   This is a snake game created using javascript, HTML, CSS
 </h4>
